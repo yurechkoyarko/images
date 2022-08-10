@@ -1,4 +1,9 @@
-<style>
-    .command   {color: aqua;}
-    .value    {color: yellow;}
-</style>
+.command   
+{
+	color: aqua;
+}
+
+.value    
+{
+	color: yellow;
+}
