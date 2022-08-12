@@ -3,7 +3,28 @@
 	color: aqua;
 }
 
+.flag   
+{
+	color: aqua;
+}
+
 .value    
 {
 	color: yellow;
+}
+
+.taskTitle    
+{
+	color: orange;
+}
+
+.commentedCode    
+{
+	color: green;
+}
+
+.checkButton    
+{
+	color: lime; 
+	font-weight: bold;
 }
